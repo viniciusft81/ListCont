@@ -1,0 +1,7 @@
+/home/aluno/CLionProjects/Lista_Contadores/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/aluno/CLionProjects/Lista_Contadores/cmake-build-debug/CMakeFiles/runTest.dir
+/home/aluno/CLionProjects/Lista_Contadores/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/aluno/CLionProjects/Lista_Contadores/cmake-build-debug/googletest/CMakeFiles/rebuild_cache.dir
+/home/aluno/CLionProjects/Lista_Contadores/cmake-build-debug/googletest/CMakeFiles/gtest.dir
+/home/aluno/CLionProjects/Lista_Contadores/cmake-build-debug/googletest/CMakeFiles/edit_cache.dir
+/home/aluno/CLionProjects/Lista_Contadores/cmake-build-debug/googletest/CMakeFiles/gtest_main.dir
